@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/WithObstacles.unity
+- path: Assets/Scenes/NoObstacles.unity
   isLoaded: 1
   isActive: 1
