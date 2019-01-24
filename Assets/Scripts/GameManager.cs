@@ -59,6 +59,7 @@ public class GameManager : MonoBehaviour
     public void Play()
     {
         playBtn.gameObject.SetActive(false);
+        GetComponent<AudioSource>().enabled = true;
     }
 
     public void PlayBFS()
